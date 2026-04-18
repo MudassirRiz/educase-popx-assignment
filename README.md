@@ -24,7 +24,7 @@ https://edu-popx-assignment.netlify.app/
 ## Installation
 
 ```bash
-git clone your-repo-link
+git clone https://github.com/MudassirRiz/educase-popx-assignment.git
 cd popx
 npm install
 npm run dev
