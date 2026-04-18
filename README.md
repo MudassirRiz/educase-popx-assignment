@@ -3,7 +3,7 @@
 A responsive React + Tailwind CSS frontend assignment that recreates the PopX onboarding flow with Login, Sign Up, Landing Page, and Profile screens.
 
 ## Live Demo
-Add deployed link here
+https://edu-popx-assignment.netlify.app/
 
 
 ## Features
